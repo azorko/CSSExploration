@@ -1,0 +1,86 @@
+header nav {
+  height: 50px;
+  margin: 0 auto;
+}
+
+nav li {
+  float: right;
+  list-style: none;
+  padding: 10px;
+}
+
+.button {
+  padding: 5px;
+  background-color: LightGray;
+  text-align: center;
+  border: 1px solid #f0f0f0;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 130px;
+/*  height: ;*/
+  display: inline-block;
+}
+
+.button:hover {
+  border-bottom: 2px solid #ccc;
+}
+
+#sign-in {
+  background-color: blue;
+  color: white;
+  width: 50px; 
+  margin-top: -10px;
+}
+
+.body > div {
+  margin: 0 auto;
+}
+
+.input-box{
+  width: 500px;
+}
+
+#search-box{
+  width: 100%;
+}
+.doodle-image{
+  width: 434px;
+}
+.body > div.search-buttons{
+  margin-top: 10px;
+  width: 320px;
+  height: 20px;
+}
+
+.search-button{
+  float: left;
+}
+
+.lucky-button{
+  float: right;
+}
+
+footer {
+  background-color: LightGray;
+  height: 50px;
+  border: 1px solid gray;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer li {
+  color: gray;
+  list-style: none;
+  padding: 10px;
+  margin-top: -10px;
+}
+
+.float_right {
+  float: right;  
+}
+
+.float_left {
+  float: left;
+}

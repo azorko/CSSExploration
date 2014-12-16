@@ -1,4 +1,4 @@
-Main Project: CSS Exploration
+Project: CSS Exploration
 
 Focus:
 
